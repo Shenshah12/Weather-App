@@ -24,6 +24,6 @@ To run this project, ensure you have the following installed:
 
 - Flutter SDK (>= 2.x)
 - Dart SDK
-- Android Studio (with Flutter/Dart plugins)
+- Android Studio or Visual Studio Code (with Flutter/Dart plugins)
 - A valid API key from OpenWeatherMap
 
