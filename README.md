@@ -4,14 +4,13 @@ A simple weather app built with Flutter that uses the OpenWeatherMap API to fetc
 
 ## Features
 
-- Get current weather conditions (temperature, humidity, wind speed, etc.) for any city.
+- Get current weather conditions (temperature) for any city.
 - Display weather icons for different weather conditions (clear, cloudy, rainy, etc.).
 - Responsive UI for different screen sizes.
-- Light and dark theme modes.
 
 ## Screenshots
 
-(Include relevant screenshots of the app)
+
 
 ## Technologies Used
 
